@@ -1,0 +1,19 @@
+{
+  "name": "pdfreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "file",
+    "read",
+    "pdf"
+  ],
+  "author": "Rubanraj",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
